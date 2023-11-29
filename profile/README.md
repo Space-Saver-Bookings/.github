@@ -8,18 +8,17 @@ SpaceSaver is a web application designed to streamline office space bookings and
 
 ## Features
 
-### Admin Controls 🧑‍💼👩‍💼👨‍💼
-- Create and manage 'spaces,' including naming individual rooms within them.
+### Account System 🧑‍💻👩🏼‍💻
+- Users must create an account to log in and access the amazing features SpaceSaver has to offer.
 
-### Access Management 🎛️
-- Admin control to manage user access to different spaces.
+### Space Management 🎛️
+- Create and manage 'spaces,' including creating individual rooms within spaces.
 
-### Login & Calendar Integration 📆
-- Seamless login-based bookings with the option to sync with your favorite calendars.
+### User Access Management 🧑‍💼👩‍💼👨‍💼
+- Admin control to manage user access to different spaces & rooms.
 
-### Tablet Interface View 📺
-- Tablets located outside each room provide a simple timer view of available 'for'/'from' times.
+### Booking Management System 📆
+- Seamless bookings within the app with an integrated calendar.
 
-### Tablet Interface PIN Bookings 📍
-- Individual pin-based access for immediate room bookings, ensuring a hassle-free experience.
-
+### Dashboard 💻 
+- User-friendly dashboard serving as the central hub for all users and admins using SpaceSaver.
